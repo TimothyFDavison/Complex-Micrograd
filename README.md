@@ -28,9 +28,13 @@ build a personal library for complex valued modeling. I'm using Karpathy's `micr
 guide for my implementation.
 
 ## Resources
-[The Complex Gradient Operator
+- [The Complex Gradient Operator
 and the CR-Calculus (Kreutz-Delgado, 2009)](https://arxiv.org/pdf/0906.4835)
-[A short tutorial on Wirtinger Calculus with applications in
+
+- [A short tutorial on Wirtinger Calculus with applications in
 quantum information (Koor, 2023)](https://arxiv.org/pdf/2312.04858)
-[nput Convex Neural Networks (Amos, 2017)](https://arxiv.org/pdf/1609.07152)
-[Deep Complex Networks (Trabelsi, 2018)](https://arxiv.org/pdf/1705.09792)
+
+- [nput Convex Neural Networks (Amos, 2017)](https://arxiv.org/pdf/1609.07152)
+
+- [Deep Complex Networks (Trabelsi, 2018)](https://arxiv.org/pdf/1705.09792)
+
