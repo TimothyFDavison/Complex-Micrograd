@@ -35,4 +35,10 @@ quantum information (Koor, 2023)](https://arxiv.org/pdf/2312.04858)
 - [nput Convex Neural Networks (Amos, 2017)](https://arxiv.org/pdf/1609.07152)
 - [Deep Complex Networks (Trabelsi, 2018)](https://arxiv.org/pdf/1705.09792)
 - [A Survey of Complex-Valued Neural Networks (Bassey, 2021)](https://arxiv.org/pdf/2101.12249)
-- [Theory and Implementation of Complex-Valued Neural Networks (Barrachina, 2023)][https://arxiv.org/pdf/2302.08286]
+- [Theory and Implementation of Complex-Valued Neural Networks (Barrachina, 2023)](https://arxiv.org/pdf/2302.08286)
+- Github repositories (none actively maintained):
+  - https://github.com/NEGU93/cvnn/
+  - https://github.com/ChihebTrabelsi/deep_complex_networks
+  - https://github.com/wavefrontshaping/complexPyTorch
+- Blogs:
+  - https://medium.com/geekculture/improve-neural-networks-by-using-complex-numbers-5e142b8931e6 
